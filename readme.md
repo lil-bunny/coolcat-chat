@@ -1,0 +1,1 @@
+This is a Chat User Interface. On tapping the message button the chat box appears.And on after sending a message you recieve the same message
